@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "Welcome to the \"Just a Blog App\"",
+      "body": "The padEnd() method pads the current string with a given string (repeated, if needed) so that the resulting string reaches a given length. The padding is applied from the end (right) of the current string. The source for this interactive example is stored in a GitHub repository.\" source: developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/…",
+      "author": "Shams Ibne Noor",
+      "id": 1
+    },
+    {
+      "title": "Rules and regulations of \"Just a Blog App\"",
+      "body": "My solution, is much cleaner and more standardized plus it shows multiple usages. The padEnd() method pads the current string with a given string (repeated, if needed) so that the resulting string reaches a given length. The padding is applied from the end (right) of the current string. The source for this interactive example is stored in a GitHub repository. source: developer.mozilla.org/en-",
+      "author": "Rupom",
+      "id": 2
+    }
+  ]
+}
